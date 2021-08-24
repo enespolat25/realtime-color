@@ -7,6 +7,6 @@ React ile fronend ve backend entegrasyonu ile arkaplan renk değiştiren bir uyg
     npm i
     npm start
  * Client kısmını çalıştırmak için
- 1- cd client
+ 1 - cd client
     npm i
     npm start
